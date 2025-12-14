@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 🛻 I'm an autonomous systems engineer at [PlusAI](https://plus.ai/). 
 <!--I graduated as a dual master's student majoring in ⚡ Electrical Engineering & ⚙️ Mechanical Engineering at the University of Pennsylvania. -->
 
-- 🎯 I developed the F1TENTH software stack 🎮 & the fullstack AV4EV go-kart 🏎️ when I was studying at Penn
-- 🌉 I'm currently working on 🚀 autonomous feature + 📖 system architecture + 🛑 runtime safety + 🚋 vehicle integration
-- 🔭 I'm looking forward to studying more in the field of autonomous systems!
+- 🎯 I developed the F1TENTH software stack 🎮 & the fullstack AV4EV go-kart 🏎️ when I was studying at Penn. 
+- 🌉 I'm currently working as a Systems Engineer, focusing on 🛑 Functional Safety & 🚀 H2H Mission Concept for autonomous systems.
+- 🔭 I'm excited to continue exploring and advancing my expertise in autonomous systems!
 
 <!--🛠️ Some tools that I use:-->
 
