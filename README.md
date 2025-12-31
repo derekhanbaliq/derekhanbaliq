@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!--I graduated as a dual master's student majoring in ⚡ Electrical Engineering & ⚙️ Mechanical Engineering at the University of Pennsylvania. -->
 
 - 🎯 I developed the F1TENTH software stack 🎮 & the fullstack AV4EV go-kart 🏎️ when I was studying at Penn. 
-- 🌉 I'm currently working on 🛑 Functional Safety & 🚀 H2H Mission Concept for autonomous systems.
+- 🌉 I'm currently working on 🛑 Autonomy Safety & 🚀 H2H Mission Concept for autonomous vehicles.
 - 🔭 I look forward to exploring & advancing my expertise in autonomous systems!
 
 <!--🛠️ Some tools that I use:-->
